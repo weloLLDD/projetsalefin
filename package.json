@@ -1,0 +1,15 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd backend && npm install",
+     "start-server": "cd backend && npm start",
+     "install-client": "cd frontend && npm install",
+      "start-client": "cd frontend && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
